@@ -10,10 +10,10 @@ I am currently working at Izyplay Game Studio in Porto Alegre. You can check my 
 
 [joaohenz.github.io](https://joaohenz.github.io/)
 
-<p float="left">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoaoHenz&theme=dracula)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-</p>
+<div align="left">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JoaoHenz&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenz&theme=dracula"/>  
+</div>
 
 <!--
 **JoaoHenz/JoaoHenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
