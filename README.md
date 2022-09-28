@@ -1,4 +1,4 @@
-### Hello, my name is João 👋
+### Hello! My name is João Batista Manique Henz and I am a software engineer! 👋
 
 A software engineer hungry for knowledge and new challenges!
 
@@ -8,12 +8,12 @@ I love working with more people, coordinating our efforts and dealing with diffi
 
 I am currently working at Izyplay Game Studio in Porto Alegre. You can check my old and current projects at my portfolio:
 
-joaohenz.github.io
+[joaohenz.github.io](https://joaohenz.github.io/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoaoHenz&theme=dracula)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<p float="left">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoaoHenz&theme=dracula)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+</p>
 
 <!--
 **JoaoHenz/JoaoHenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
