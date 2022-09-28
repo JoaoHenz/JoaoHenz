@@ -1,4 +1,4 @@
-### Hello! My name is João Batista Manique Henz and I am a software engineer! 👋
+### Hello! My name is João Henz! 👋
 
 A software engineer hungry for knowledge and new challenges!
 
