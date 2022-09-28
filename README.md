@@ -10,9 +10,9 @@ I am currently working at Izyplay Game Studio in Porto Alegre. You can check my 
 
 [joaohenz.github.io](https://joaohenz.github.io/)
 
-<div align="left">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=JoaoHenz&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenz&theme=dracula"/>  
+<div align="left" padding=10em>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JoaoHenz&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoHenz&theme=dracula"/>  
 </div>
 
 <!--
